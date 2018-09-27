@@ -1,0 +1,23 @@
+{
+  "name": "baxi",
+  "version": "1.0.0",
+  "description": "这是一个node.js学习仓库",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baxibaba/node.git"
+  },
+  "author": "baxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baxibaba/node/issues"
+  },
+  "homepage": "https://github.com/baxibaba/node#readme"
+}
