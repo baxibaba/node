@@ -4,7 +4,7 @@
   "description": "这是一个node.js学习仓库",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.14.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
